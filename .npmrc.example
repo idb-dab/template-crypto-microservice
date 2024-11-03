@@ -1,0 +1,3 @@
+//npm.pkg.github.com/:_authToken=<your-token>
+@idb-dab:registry=https://npm.pkg.github.com
+@digitalassetportal:registry=https://npm.pkg.github.com
